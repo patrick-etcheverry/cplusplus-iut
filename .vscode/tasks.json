@@ -10,7 +10,7 @@
                 "-Wextra",
                 "-Wpedantic",
                 "-Wconversion",
-                "-fexceptions",
+				"-fexceptions",
                 "${fileDirname}\\*.cpp",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
